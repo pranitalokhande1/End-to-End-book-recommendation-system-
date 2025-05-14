@@ -1,6 +1,6 @@
 scikit-learn 
 pandas 
 numpy
-# PyYAML
-# streamlit
-# -e .
+PyYAML
+streamlit
+-e .
