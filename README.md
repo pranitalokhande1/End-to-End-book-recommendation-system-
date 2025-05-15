@@ -1,5 +1,13 @@
 # End-to-End-book-recommendation-system-
 
+## workflow
+- config.yaml
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
 # how to run?
 ### steps:
 
