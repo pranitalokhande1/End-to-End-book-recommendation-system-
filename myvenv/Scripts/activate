@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\vs code projects\ML book recommender\End-to-End-book-recommendation-system-\myvenv"
+VIRTUAL_ENV="D:\vs code projects\ML book recommender\End-to-End-book-recommendation-system\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
